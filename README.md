@@ -9,26 +9,26 @@ A software engineer at Musahioni-University.
 
 ## skills
 
-- Python
+- [Python](https://www.python.org/)
 
-- Docker
+- [Docker](https://www.docker.com/)
 
-- Rust
+- [Rust](https://www.rust-lang.org/)
 
-- Go
+- [Go](https://go.dev/)
 
-- Svelte(SvelteKit)
+- [Svelte(SvelteKit)](https://svelte.dev/)
 
-- Shell
+- [Shell](https://www.zsh.org/) (especially zsh)
 
 ## tools
 
-- alacritty
+- [Alacritty](https://alacritty.org/)
 
-- helix
+- [Helix](https://helix-editor.com/)
 
-- nano
+- [Nano](https://www.nano-editor.org/)
 
-- zellij
+- [Zellij](https://zellij.dev/)
 
-- tmux
+- [tmux](https://github.com/tmux/tmux)

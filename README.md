@@ -17,9 +17,9 @@ A software engineer at Musahioni-University.
 
 - Go
 
-- Svelte(Svelte-kit)
+- Svelte(SvelteKit)
 
-- zsh
+- Shell
 
 ## tools
 
